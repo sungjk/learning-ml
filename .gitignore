@@ -52,4 +52,4 @@ geckodriver.log
 
 target/
 scratch/
-
+*.npy
